@@ -32,7 +32,7 @@ public class Application {
                     1,
                     Location.INDOOR
             );
-            log.info("Run: ", run.completedOn());
+            log.info("Run: " + run);
         };
     }
 
